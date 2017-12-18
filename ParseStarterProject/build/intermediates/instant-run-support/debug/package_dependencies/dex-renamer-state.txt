@@ -1,0 +1,7 @@
+#Sat Dec 16 22:49:24 EST 2017
+base.0=/home/league95/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/11
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/league95/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/11

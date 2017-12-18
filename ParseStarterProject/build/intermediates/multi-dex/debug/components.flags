@@ -1,0 +1,102 @@
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/46c6ec02c16aa91d5d68fa4e13f4dc89/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/9c56e87d536f662c661390071cfb3c72/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/8d2849e2da6d8fd7b5ccb48843683c12/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/3c6c28e8aa7fd393364c3b4fe3ea719d/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/3c6c28e8aa7fd393364c3b4fe3ea719d/jars/libs/internal_impl-23.0.0.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/464bfbb5f9e795376b0a7bf85674737a/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar(**.class)
+-injars /home/league95/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/1a78230af00cf558c32ef8e3e777eacb/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/ae1d1bf553e3c3c3f12b3b20dd4a77d5/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/0043898ef18dbf26ead4025679908b9c/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/5ac356b53ade4a04fd115ca24aaa9c8d/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/e8a84403f77196fd8028bd6ded3b2da0/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-9.4.0.aar/c482a881a938f14c5f153f6d8685ab54/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/655ebb95109eb0e14956e8580405bd19/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/7e42e274416537db40cd303190288663/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/fb49a27363e4e8c9f8accce632f17d78/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-9.4.0.aar/0d873a6fbcc03dfc0495ce48216e3dd3/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/0d800cfbbd50526c6ee9df0c9d819440/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-config-9.4.0.aar/56ffb36fcc4f4356187b59ea676bac3e/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-contextmanager-9.4.0.aar/1d3f5e2812645eb336a66a0533084fba/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/0a5ac221588311e7032a389b617a413b/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-games-9.4.0.aar/f317cc3fde62846abdf90579188481d1/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-drive-9.4.0.aar/1249fe2efd0961812e058703b3790f0d/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.4.0.aar/cc6889e32e91d71c0c9f793847248e6c/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.4.0.aar/8abe54e1ab6c1beb8770d49334c1902f/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.4.0.aar/833a51fa830cd17fe4dabde4b8ba667c/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-database-9.4.0.aar/43b04f6a7f68bdb51751ece1c8e55c06/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.4.0.aar/128127f7b3b286d086595175edab6502/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-storage-9.4.0.aar/65014e161041e105c58410679456d821/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-9.4.0.aar/a0a693f5fac9ed122911b3af0bb91f39/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-fitness-9.4.0.aar/e1cc1733c86a8174e48fb36f8d6a8446/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-gcm-9.4.0.aar/ca9f6eb4e84494e93ab46ce4168401af/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.4.0.aar/8d5e6ed6788b88b404b74c3d6acb3fcd/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/87a26558c8c58d4dfcb1d9a9c3b99c5d/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-identity-9.4.0.aar/cc24b7d9211238d9fd0a7abee97ff0f1/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-iid-9.4.0.aar/a8ccbc08400d098316c04b2638de0df7/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/3160b82761ac9147f2551378fe67808e/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/eddd856ceda95cf01db9555e49e7a0b6/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/50d897ff54211a838d179da29398b134/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-nearby-9.4.0.aar/99720a667c4c03204fcea7e39b58c1b1/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-panorama-9.4.0.aar/62abd9a4c0f661310636a11ff56ff15c/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/be42dc92b032dbbaf0a8928c54f087be/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-9.4.0.aar/b85833a35f2b1f2c3a9973bb7988db72/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/d7952f103f03702e5e0f1b6a9a4e836f/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.4.0.aar/d0f0d6185009ff1b01b513a51349d08e/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/f99ceacc67cc02d99f277fe19d565897/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/ea2bcf672bd40b1cacc97db2e1c38f86/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/9dd3e070270914c1b989fd76b82bda6d/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/8407ae0dc0ec89eec223f4134070e43f/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/e5c8b8415e4b151f740184c44fe32b47/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/3a01c946558ed8b6c4e0d1894ce7f677/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/f084b7d4a1ba7c2d976f7059b337c842/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/ccfce99575d18cf73b3460225440102d/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/8762cd91c8e8b39885f9a945b9871f52/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/e519e168eb5b37326f8eb0b3589c7d21/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/6a56417ed603159751c71b68db588dc4/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/7315648ccd7cfaad86efa7da215e0bde/jars/classes.jar(**.class)
+-injars /home/league95/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/7315648ccd7cfaad86efa7da215e0bde/jars/libs/internal_impl-23.4.0.jar(**.class)
+-injars /home/league95/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar(**.class)
+-injars /home/league95/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/classes/debug(**.class)
+-outjars /home/league95/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /home/league95/Android/Sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /home/league95/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /home/league95/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml:38
+-keep class com.parse.starter.StarterApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}
